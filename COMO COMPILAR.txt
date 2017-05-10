@@ -1,0 +1,6 @@
+1. Vá até o diretorio
+2. Digite:  javac *.java
+3. Digite:  rmic Gestor
+4. Digite:  start rmiregistry
+5. Digite:  start java UsuarioServidor
+6. Digite:  java UsuarioCliente
